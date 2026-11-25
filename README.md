@@ -1,1 +1,1 @@
-# JupyterLite-Malaria
+# JupyterLite-Malaria-StoryMaps
